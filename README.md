@@ -8,5 +8,5 @@ hah. <br>
 
 I will add more ML tools to this repo. Hope it could be useful for us. <br>
 
-University of Rochester, Computational Cognition and Perception Lab, Cheet sheat:http://www2.bcs.rochester.edu/sites/jacobslab/cheat_sheets.html<br>
+University of Rochester, Computational Cognition and Perception Lab, Cheet sheat: http://www2.bcs.rochester.edu/sites/jacobslab/cheat_sheets.html<br>
 

@@ -1,14 +1,16 @@
 created by Yinhong Liu in 29th Nov. 2018
 
-# PythonLearning
-- xxx
-- xxx
-Claire should learn about this.<br>
-I'm happy to teach her and learn with her. <br>
-And she should be patient when I explain to her.<br>
-hah. <br>
+# Step-by-step introductions of ML topics
 
-I will add more ML tools to this repo. Hope it could be useful for us. <br>
+Enjoy :) <br>
 
 University of Rochester, Computational Cognition and Perception Lab, Cheet sheat: http://www2.bcs.rochester.edu/sites/jacobslab/cheat_sheets.html<br>
 
+- Gibbs Sampling
+- Sequential Importance Sampling (Particle filter)
+- Gaussian Process
+- GAN
+- Attention network
+- ...
+
+Contact me by: williamliuyinhong@gmail.com

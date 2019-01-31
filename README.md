@@ -1,10 +1,8 @@
 created by Yinhong Liu in 29th Nov. 2018
 
 # PythonLearning
-\begin{itemize}
-\item 111
-\end{itemize}
-
+- xxx
+- xxx
 Claire should learn about this.<br>
 I'm happy to teach her and learn with her. <br>
 And she should be patient when I explain to her.<br>
